@@ -94,6 +94,8 @@ cite:ottaviani2006professional
 # * Experimentation
 
 * Papers to present
+These are some papers that students may choose to present. If you want to present a paper that is not on the list, please contact the course instructor.
+
 ** Information design
 - cite:condorelli2017information
 - cite:taneva2018information
