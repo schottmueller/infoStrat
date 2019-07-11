@@ -71,16 +71,25 @@ cite:strausz2005honest,stahl2017certification
 If you are interested in what others know, it is usually best to observe what they do. Consequently, economic agents are often learning from observing the behavior of others; e.g. investors learn from how other investors invest, politicians learn from voting behavior, firms infer information about market conditions from the behavior of competitors etc. This learning behavior can, however, have unintended consequences if agents rely too much on others and too little on their own information. In this case "informational cascades" can occur in which everyone takes the same - and possibly wrong - action. 
 
 ** Herd behavior
-cite:banerjee1992simple,smith2000pathological
-
- cite:bikhchandani1992theory
+- informational cascades
+- reading: cite:Smith2016, (background:  cite:bikhchandani1992theory,banerjee1992simple,smith2000pathological)
 
 * Reputation and advice
+
+Interacting repeatedly allows to build a reputation. E.g. if a friend has never lied to you, you may expect him not to lie in the future. The friend has a reputation for honesty. Can a strategic friend (who might occasionally have an incentive to lie to you) be always honest? If there are benefits from being perceived as honest, how will a friend behave today?
+
 ** Chain store paradox and reputation
+- Can players commit to a certain action that they would normally not take when interacting several times?
+- applications: reputation for behavior
+- reading: ch. 9.1-9.2, 9.4 in cite:fudenberg1991game
+
 **  Career concerns
-Holmstrøm
+- How will concerns about the future affect a person's decision about how much effort to exert today?
+- reading: cite:holmstrom1999managerial
+
 ** advice
-cite:ottaviani2006professional
+- Will experts give best possible advice if they are motivated by an incentive to show the world that they are great experts?
+- reading: cite:ottaviani2006professional
 
 # * Technical tools
 # Understanding research papers requires to know certain tools and techniques. The following pop up quite often in information economics papers.
@@ -124,13 +133,17 @@ These are some papers that students may choose to present. If you want to presen
 ** Social learning
 - cite:caplin1994business
 - cite:gale1996have
+** Reputation and advice
+- cite:prendergast1993theory
+- cite:prat2005wrong
+- cite:ottaviani2006reputational
+- cite:prendergast1996impetuous
+- cite:sobel1985theory
+
 
 # ** Information acquisition
 # - cite:burke2012information Banks search for information about the creditworthiness of consumers. Is the amount of search welfare optimal? What is the market outcome if firms can (not) price discriminate?
 # - cite:armstrong2009consumer Analyzes the impact of consumer protection policy on the incentives of consumers to become informed and shows some surprising unintended consequences of consumer protection rules.
-** Reputation and advice
-- cite:prendergast1993theory
-- cite:prat2005wrong
 
 
 bibliographystyle:chicago
