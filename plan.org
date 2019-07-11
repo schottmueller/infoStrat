@@ -1,0 +1,104 @@
+#+TITLE: Information and Strategy
+#+AUTHOR: Christoph Schottmüller
+#+Options: toc:nil H:2
+#+Latex_Header: \usepackage{natbib}
+
+* Introduction to asymmetric information
+** Akerlof's lemons market
+** Mediation and correlated equilibrium
+** Information rents
+2 type screening problem
+
+* Information design
+Sometimes we can determine how informed others (or we ourselves) will be, e.g. a central bank can decide how to test banks in a "stress test" (and the information the market gets from the test depends on how strict the test is), a prosecutor decides which witnesses to hear in court and a school might decide how finely grained its grade system is. Which design should the information designer optimally choose?
+** Bayesian persuasion
+ cite:kamenica11_bayes_persuas
+** Bilateral trade
+cite:roe17
+** Bayes correlated equilibrium
+ cite:bergemann19_infor_desig
+
+* Strategic communication
+People might share what they know with others. The recipients of the information might be able to make use of this information when choosing what to do; e.g. you might go to a new restaurant if someone tells you it is great. This, however, opens the door for manipulation: For example, the restaurant owner might pay people to give positive reviews to others. Which sender and which messages can be trusted to what extent?
+** discrete state
+** Echo chambers
+cite:jann2018echo
+** Continuous state
+cite:crawford1982cheap
+
+* Presenting evidence
+Sometimes one can communicate information credibly by having a third party expert certifying it; e.g. rating agencies can certify the quality of an asset or the creditworthiness of a person, one can take a test - like GRE or TOEFL - to certify certain abilities etc. Who will certify what? Which information will be transmitted and which won't?
+** unraveling
+ch. 5.1 in cite:bolton2005contract , cite:milgrom1981good
+** Dye's model
+cite:dye1985disclosure,jung1988disclosure 
+** certification
+cite:strausz2005honest,stahl2017certification 
+
+* Social learning
+If you are interested in what others know, it is usually best to observe what they do. Consequently, economic agents are often learning from observing the behavior of others; e.g. investors learn from how other investors invest, politicians learn from voting behavior, firms infer information about market conditions from the behavior of competitors etc. This learning behavior can, however, have unintended consequences if agents rely too much on others and too little on their own information. In this case "informational cascades" can occur in which everyone takes the same - and possibly wrong - action. 
+
+** Herd behavior
+cite:banerjee1992simple,smith2000pathological
+
+ cite:bikhchandani1992theory
+
+* Reputation and advice
+** Chain store paradox and reputation
+**  Career concerns
+Holmstrøm
+** advice
+cite:ottaviani2006professional
+
+* Technical tools
+Understanding research papers requires to know certain tools and techniques. The following pop up quite often in information economics papers.
+** Screening with a continuum of types
+** Value of information
+
+# * Information acquisition
+
+# * Reputation
+
+# * Global games
+
+# * Experimentation
+
+* Papers to present
+** Information design
+- cite:condorelli2017information
+- cite:taneva2018information
+- cite:bergemann16_bayes_correl_equil_compar_infor_struc_games
+- cite:bergemann17_first_price_auction_with_gener_infor_struc
+- cite:bergemann2015limits
+- cite:ely2017beeps
+- cite:baliga2016torture
+
+** Hard evidence
+- cite:demarzo2018test
+- cite:song2003disclosures
+- cite:ben2014optimal
+
+** Cheap talk
+- cite:farrell1989cheap
+- cite:stein1989cheap
+- cite:alonso2008does
+- cite:dessein2002authority
+- cite:schottmueller2013cifd
+- cite:galeotti2013strategic
+- cite:kartik2009strategic
+- cite:hagenbach2010strategic
+- cite:austensmith20001
+
+** Social learning
+- cite:caplin1994business
+- cite:gale1996have
+
+# ** Information acquisition
+# - cite:burke2012information Banks search for information about the creditworthiness of consumers. Is the amount of search welfare optimal? What is the market outcome if firms can (not) price discriminate?
+# - cite:armstrong2009consumer Analyzes the impact of consumer protection policy on the incentives of consumers to become informed and shows some surprising unintended consequences of consumer protection rules.
+
+bibliographystyle:chicago
+bibliography:/home/christoph/stuff/bibliography/references.bib
+** Reputation and advice
+- cite:prendergast1993theory
+- cite:prat2005wrong

@@ -1,0 +1,22 @@
+#+TITLE: Information and Strategy
+#+AUTHOR: Christoph Schottmüller
+#+Options: toc:nil H:2
+#+Latex_Header: \usepackage{natbib}
+
+* News
+- This website will be slowly update over the coming weeks to give students information about the course "Information and Strategy"
+- Lecture time and place in WS 2019/20: Tuesday and Thursday 16:00-17:30 (103/S82)
+
+* Description
+This course deals with information economics. That is, how to people and/or organizations strategically interact that have access to different information sources? We also deal with the natural follow up question: Who will and/ or should have access to what information and what kind of information can/will/should be transmitted from one person to another? 
+
+There are numerous applications from all fields of economics. These cover classic questions, like: how will a firm design its pricing schedule, e.g. quantity discounts, if it does not know the willingness to pay of its customers? But also modern questions, e.g. "how does the internet change the way in which people communicate and obtain information, say, about politics?" or "to what extent should, so called, stress tests by the banking supervisors reveal information about default risks of banks?".   
+
+The course uses mainly game theoretic models in order to shed light on questions like ones above. Methodologically, students get to know the basic models of information economics (screening, cheap talk, information design). This will enable students to read research papers in which these tools are used. A more detailed schedule will be published here at a later date.
+
+Grading is based on a presentation and a written report. Both the presentation and the report are on a research paper in information economics. The main task is to summarizes the paper and (mainly in the written report) to briefly evaluate the paper, discuss it or comment on it. 
+
+
+
+* Course material
+tba
