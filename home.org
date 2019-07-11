@@ -12,11 +12,11 @@ This course deals with information economics. That is, how to people and/or orga
 
 There are numerous applications from all fields of economics. These cover classic questions, like: how will a firm design its pricing schedule, e.g. quantity discounts, if it does not know the willingness to pay of its customers? But also modern questions, e.g. "how does the internet change the way in which people communicate and obtain information, say, about politics?" or "to what extent should, so called, stress tests by the banking supervisors reveal information about default risks of banks?".   
 
-The course uses mainly game theoretic models in order to shed light on questions like ones above. Methodologically, students get to know the basic models of information economics (screening, cheap talk, information design). This will enable students to read research papers in which these tools are used. 
+The course uses mainly game theoretic models in order to shed light on questions similar to those above. Methodologically, students get to know the basic models of information economics (screening, cheap talk, information design etc.). This will enable students to read research papers in which these tools are used. 
 
 Grading is based on a presentation and a written report. Both the presentation and the report are on a research paper in information economics. The main task is to summarizes the paper and (mainly in the written report) to briefly evaluate the paper, discuss it or comment on it. 
 
-A preliminary plan can be found [[https://github.com/schottmueller/infoStrat/blob/master/plan.org][here]].
+A preliminary plan can be found [[https://github.com/schottmueller/infoStrat/blob/master/plan.org][here]]. (A less often updated pdf with properly formatted references is available [[https://github.com/schottmueller/infoStrat/files/3381415/plan.pdf][here]].)
 
 * Course material
 ** Lecture material
