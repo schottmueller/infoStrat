@@ -14,16 +14,21 @@ We use the first 2-3 weeks to introduce the classics in information economics. W
 - the first welfare theorem does not hold if different players have different information 
 - applications: used car markets and warranties, adverse selection in insurance markets
 - reading: chapter 5.3 in cite:campbell2018incentives
+- practice: excessive self financing or insurance as in cite:einav2011selection
+
 ** Mediation and correlated equilibrium
 - correlated equilibrium
 - an impartial mediator can use asymmetric information to make everyone better off
 - reading for the technical details: chapter 8 in cite:maschler2013game
+- practice: Bertrand and Cournot competition
+
 ** Information rents and screening
 - 2 type screening problem and revelation principle
 - information creates "rents" for those who have information but uninformed parties reduce these rents by distorting allocations inefficiently
 - applications: non-linear pricing by a monopolist, credit rationing
 - technical extension: screening with a continuum of types
 - reading: chapter 2.1.3, 2.2.1 and 2.3.3 in  cite:bolton2005contract
+- practice: regulating a monopolist, cite:Bar82
 
 * Information design
 Sometimes we can determine how informed others (or we ourselves) will be, e.g. a central bank can decide how to test banks in a "stress test" (and the information the market gets from the test depends on how strict the test is), a prosecutor decides which witnesses to hear in court and a school might decide how finely grained its grade system is. Which design should the information designer optimally choose?
@@ -32,14 +37,17 @@ Sometimes we can determine how informed others (or we ourselves) will be, e.g. a
 - how can you structure other players' information to reach your goals?
 - application: will bad banks fail optimal stress tests?
 - reading: cite:kamenica11_bayes_persuas
+- practice: costly persuasion (K&G AER 2014) or Schweizer, Szech 10.1287/mnsc.2017.2913
 ** Bilateral trade
 - consumer surplus maximizing information structures
 - how much information about a product do you want to have before buying it?
 - application: "strategic ignorance"
 - reading: cite:roe17
+- practice: cite:condorelli2017information
 ** Bayes correlated equilibrium
 - the BCE approach to information design
 - reading: section 1-3.2 in cite:bergemann19_infor_desig
+- practice: tba
 
 * Strategic communication
 People might share what they know with others. The recipients of the information might be able to make use of this information when choosing what to do; e.g. you might go to a new restaurant if someone tells you it is great. This, however, opens the door for manipulation: For example, the restaurant owner might pay people to give positive reviews to others. Which sender and which messages can be trusted to what extent?
@@ -48,10 +56,12 @@ People might share what they know with others. The recipients of the information
 - People mainly communicate with people that are similar to them. Is this inefficient or could there be an informational reason?
 - application: communication and the internet, echo chambers
 - reading: cite:jann2018echo
+- practice: cite:farrell1989cheap
 ** Continuous state
 - classic cheap talk model with a continuum of states
 - applications: delegation
 - reading: cite:crawford1982cheap
+- practice: cite:schottmueller2013cifd
 
 * Presenting evidence
 Sometimes one can communicate information credibly by having a third party expert certifying it; e.g. rating agencies can certify the quality of an asset or the creditworthiness of a person, one can take a test - like GRE or TOEFL - to certify certain abilities etc. Who will certify what? Which information will be transmitted and which won't?
@@ -64,6 +74,7 @@ Sometimes one can communicate information credibly by having a third party exper
 - who will certify if the unravelling logic does not apply completely?
 - applications: should students be able to choose among exam questions?, risk taking (BDL) 
 - reading: [[https://sites.google.com/site/eddiedekelsite/pres_address_2016_slides/pres_address_2016_slides.pdf?attredirects=0&d=1][Dekel's slides]], (background: cite:dye1985disclosure,jung1988disclosure)
+- practice: cite:ben2014optimal
 ** certification
 cite:strausz2005honest,stahl2017certification 
 
@@ -82,6 +93,7 @@ Interacting repeatedly allows to build a reputation. E.g. if a friend has never 
 - Can players commit to a certain action that they would normally not take when interacting several times?
 - applications: reputation for behavior
 - reading: ch. 9.1-9.2, 9.4 in cite:fudenberg1991game
+- practice: http://didattica.unibocconi.it/mypage/dwload.php?nomefile=48805_20081010_094047_CENTRAL_BANK_REPUTATION_AND_THE_MONETIZATION_OF_DEFICITS20140415110809.PDF or Barro, Gordon JME 1983
 
 **  Career concerns
 - How will concerns about the future affect a person's decision about how much effort to exert today?
@@ -106,25 +118,25 @@ Interacting repeatedly allows to build a reputation. E.g. if a friend has never 
 These are some papers that students may choose to present. If you want to present a paper that is not on the list, please contact the course instructor.
 
 ** Information design
-- cite:condorelli2017information
+# - cite:condorelli2017information
 - cite:taneva2018information
 - cite:bergemann16_bayes_correl_equil_compar_infor_struc_games
 - cite:bergemann17_first_price_auction_with_gener_infor_struc
 - cite:bergemann2015limits
 - cite:ely2017beeps
 - cite:baliga2016torture
+-    Stress Tests and Information Disclosure with Yaron Leitner, Journal of Economic Theory, vol. 177, pp. 34-69, September 2018 
 
 ** Hard evidence
 - cite:demarzo2018test
 - cite:song2003disclosures
-- cite:ben2014optimal
 
 ** Cheap talk
-- cite:farrell1989cheap
+# - cite:farrell1989cheap
 - cite:stein1989cheap
 - cite:alonso2008does
 - cite:dessein2002authority
-- cite:schottmueller2013cifd
+# - cite:schottmueller2013cifd
 - cite:galeotti2013strategic
 - cite:kartik2009strategic
 - cite:hagenbach2010strategic
