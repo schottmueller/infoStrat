@@ -136,11 +136,7 @@ These are some papers that students may choose to present. If you want to presen
 - cite:stein1989cheap
 - cite:alonso2008does
 - cite:dessein2002authority
-# - cite:schottmueller2013cifd
-- cite:galeotti2013strategic
-- cite:kartik2009strategic
-- cite:hagenbach2010strategic
-- cite:austensmith20001
+- cite:deimen2019delegated
 
 ** Social learning
 - cite:caplin1994business
@@ -151,7 +147,7 @@ These are some papers that students may choose to present. If you want to presen
 - cite:ottaviani2006reputational
 - cite:prendergast1996impetuous
 - cite:sobel1985theory
-
+- cite:bhaskar2019culture
 
 # ** Information acquisition
 # - cite:burke2012information Banks search for information about the creditworthiness of consumers. Is the amount of search welfare optimal? What is the market outcome if firms can (not) price discriminate?
