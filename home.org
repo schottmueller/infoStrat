@@ -23,6 +23,10 @@ Grading is based on a presentation and a written report. Both the presentation a
 
 If a student prefers to write a research proposal instead of a report, this is possible as well.
 
+Presentations have to be in English. Reports can be written in English or German.
+
+Attendance is voluntary and does not affect the grading of your report directly. (Of course, the lectures are intended to prepare you for writing a good report and that would constitute an indirect effect.) 
+
 ** Plan
 
 A preliminary plan can be found [[https://github.com/schottmueller/infoStrat/blob/master/plan.org][here]]. (A less often updated pdf with properly formatted references is available [[https://github.com/schottmueller/infoStrat/files/3381859/plan.pdf][here]].)
