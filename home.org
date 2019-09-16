@@ -5,7 +5,7 @@
 
 * News
 - This website will be slowly updated over the coming weeks to give students information about the course "Information and Strategy".
-- Lecture time and place in WS 2019/20: Tuesday and Thursday 16:00-17:30 (103/S82)
+- Lecture time and place in WS 2019/20: Tuesday (100/XVIIa) and Thursday (103/S82) 16:00-17:30 
 
 * Description
 This course deals with information economics. That is, how to people and/or organizations strategically interact that have access to different information sources? We also deal with the natural follow up question: Who will and/ or should have access to what information and what kind of information can/will/should be transmitted from one person to another? 
