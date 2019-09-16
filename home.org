@@ -35,7 +35,7 @@ The structure of the course is as follows: In the first part of the course, ther
 
 * Course material
 ** Lecture material
-- [[https://github.com/schottmueller/infoStrat/files/3615206/htrap.pdf][guide]] on how to read a paper
+- [[https://github.com/schottmueller/infoStrat/files/3615401/htrap.pdf][guide]] on how to read a paper
 
 ** Books
 Some of the lectures are based on parts of books. Noteworthy are
