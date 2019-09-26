@@ -154,6 +154,11 @@ These are some papers that students may choose to present. If you want to presen
 - cite:prendergast1996impetuous
 - cite:sobel1985theory
 - cite:bhaskar2019culture
+- cite:klein2011will
+- cite:jullien2014new
+- cite:ely03
+- cite:aghion2014inducing
+- cite:par05
 
 # ** Information acquisition
 # - cite:burke2012information Banks search for information about the creditworthiness of consumers. Is the amount of search welfare optimal? What is the market outcome if firms can (not) price discriminate?
