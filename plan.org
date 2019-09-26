@@ -20,7 +20,7 @@ We use the first 2-3 weeks to introduce the classics in information economics. W
 - correlated equilibrium
 - an impartial mediator can use asymmetric information to make everyone better off
 - reading for the technical details: chapter 8 in cite:maschler2013game
-- practice: Bertrand and Cournot competition
+- practice: cite:jann2015correlated 
 
 ** Information rents and screening
 - 2 type screening problem and revelation principle
@@ -37,7 +37,7 @@ Sometimes we can determine how informed others (or we ourselves) will be, e.g. a
 - how can you structure other players' information to reach your goals?
 - application: will bad banks fail optimal stress tests?
 - reading: cite:kamenica11_bayes_persuas
-- practice: costly persuasion (K&G AER 2014) or Schweizer, Szech 10.1287/mnsc.2017.2913
+- practice: cite:schweizer2018optimal
 ** Bilateral trade
 - consumer surplus maximizing information structures
 - how much information about a product do you want to have before buying it?
@@ -117,6 +117,12 @@ Interacting repeatedly allows to build a reputation. E.g. if a friend has never 
 * Papers to present
 These are some papers that students may choose to present. If you want to present a paper that is not on the list, please contact the course instructor.
 
+** Correlated equilibrium
+- cite:liu1996correlated
+** Adverse selection and screening
+- cite:martimort2009market
+- cite:che1993design
+- cite:bijlsma2012competition
 ** Information design
 # - cite:condorelli2017information
 - cite:taneva2018information
@@ -125,8 +131,7 @@ These are some papers that students may choose to present. If you want to presen
 - cite:bergemann2015limits
 - cite:ely2017beeps
 - cite:baliga2016torture
--    Stress Tests and Information Disclosure with Yaron Leitner, Journal of Economic Theory, vol. 177, pp. 34-69, September 2018 
-
+- cite:goldstein2018stress
 ** Hard evidence
 - cite:demarzo2018test
 - cite:song2003disclosures
