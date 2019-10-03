@@ -14,7 +14,7 @@ We use the first 2-3 weeks to introduce the classics in information economics. W
 - the first welfare theorem does not hold if different players have different information 
 - applications: used car markets and warranties, adverse selection in insurance markets
 - reading: chapter 5.3 in cite:campbell2018incentives
-- practice: excessive self financing or insurance as in cite:einav2011selection
+# - practice: excessive self financing or insurance as in cite:einav2011selection
 
 ** Mediation and correlated equilibrium
 - correlated equilibrium
