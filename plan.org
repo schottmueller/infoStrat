@@ -149,6 +149,7 @@ These are some papers that students may choose to present. If you want to presen
 - cite:caplin1994business
 - cite:gale1996have
 - cite:wolitzky2018learning
+- cite:acemoglu14cycles
 ** Reputation and advice
 - cite:prendergast1993theory
 - cite:prat2005wrong
