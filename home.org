@@ -29,7 +29,7 @@ Attendance is voluntary and does not affect the grading of your report directly.
 
 ** Plan
 
-A preliminary plan can be found [[https://github.com/schottmueller/infoStrat/blob/master/plan.org][here]]. (A less often updated pdf with properly formatted references is available [[https://github.com/schottmueller/infoStrat/files/3381859/plan.pdf][here]].)
+A preliminary plan can be found [[https://github.com/schottmueller/infoStrat/blob/master/plan.org][here]]. (A less often updated pdf with properly formatted references is available [[https://github.com/schottmueller/infoStrat/files/3685333/plan.pdf][here]].)
 
 The structure of the course is as follows: In the first part of the course, there will mainly be lectures on information economics and its applications. However, we will have a few "practice sessions" in which we discuss a paper that all students should have read/skimmed before. These sessions add to the material of the lecture but are also meant to give you some practice in "how to read a paper (quickly)," i.e. these sessions prepare students for their presentations and reports. The second (and shorter) part of the course consists of student presentations of papers in information economics.
 
