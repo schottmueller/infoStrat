@@ -132,6 +132,7 @@ These are some papers that students may choose to present. If you want to presen
 - cite:ely2017beeps
 - cite:baliga2016torture
 - cite:goldstein2018stress
+- cite:bergemann18_desig_price_infor
 ** Hard evidence
 - cite:demarzo2018test
 - cite:song2003disclosures
@@ -147,6 +148,7 @@ These are some papers that students may choose to present. If you want to presen
 ** Social learning
 - cite:caplin1994business
 - cite:gale1996have
+- cite:wolitzky2018learning
 ** Reputation and advice
 - cite:prendergast1993theory
 - cite:prat2005wrong
