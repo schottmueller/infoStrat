@@ -9,7 +9,7 @@ This plan is preliminary and subject to changes.
 
 We use the first 2-3 weeks to introduce the classics in information economics. We see that asymmetric information can lead to inefficiencies in markets and start to discuss what measures players/markets may use to avoid these inefficiencies (at least partially). However, we also see that the clever use of information asymmetries can make everyone better off in some cases. 
 
-** Akerlof's lemons market
+** Adverse selection: Akerlof's lemons market
 - Akerlof's lemons market
 - the first welfare theorem does not hold if different players have different information 
 - applications: used car markets and warranties, adverse selection in insurance markets
@@ -49,7 +49,7 @@ Sometimes we can determine how informed others (or we ourselves) will be, e.g. a
 - reading: section 1-3.2 in cite:bergemann19_infor_desig
 - practice: tba
 
-* Strategic communication
+* Strategic communication (cheap talk)
 People might share what they know with others. The recipients of the information might be able to make use of this information when choosing what to do; e.g. you might go to a new restaurant if someone tells you it is great. This, however, opens the door for manipulation: For example, the restaurant owner might pay people to give positive reviews to others. Which sender and which messages can be trusted to what extent?
 ** Homophily and echo chambers
 - discrete state cheap talk
@@ -63,7 +63,7 @@ People might share what they know with others. The recipients of the information
 - reading: cite:crawford1982cheap
 - practice: cite:schottmueller2013cifd
 
-* Presenting evidence
+* Hard evidence
 Sometimes one can communicate information credibly by having a third party expert certifying it; e.g. rating agencies can certify the quality of an asset or the creditworthiness of a person, one can take a test - like GRE or TOEFL - to certify certain abilities etc. Who will certify what? Which information will be transmitted and which won't?
 ** complete unraveling
 - the incentive to show that one is better than the rest can lead to complete information
@@ -137,7 +137,7 @@ These are some papers that students may choose to present. If you want to presen
 - cite:demarzo2018test
 - cite:song2003disclosures
 
-** Cheap talk
+**  Strategic communication (cheap talk)
 # - cite:farrell1989cheap
 - cite:stein1989cheap
 - cite:alonso2008does
