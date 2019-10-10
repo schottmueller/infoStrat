@@ -29,9 +29,9 @@ Attendance is voluntary and does not affect the grading of your report directly.
 
 *** Important dates
 - Send an email to the course instructor with your preferred papers (up to 5) by October 18, 8:00am. Papers are assigned in the following week. There is no guarantee that you are assigned one of your preferred papers.
-- preliminary: Register for the "examination" via KLIPS by October 31. Deregistering will not be possible after October 31 for scheduling reasons.
-- preliminary: Dates for the presentations are announced in November. Student presentations take place in January (and possibly December).
-- preliminary: Hand in your paper by March 1, 2020. 
+- Register for the "examination" via KLIPS by October 31. Deregistering will not be possible after October 31 for scheduling reasons.
+- Dates for the presentations are announced in November. Student presentations take place in January (and possibly December).
+- Hand in your paper by March 1, 2020. 
 ** Plan
 
 A preliminary plan can be found [[https://github.com/schottmueller/infoStrat/blob/master/plan.org][here]]. (A less often updated pdf with properly formatted references is available [[https://github.com/schottmueller/infoStrat/files/3702057/plan.pdf][here]].)
