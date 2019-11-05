@@ -4,7 +4,8 @@
 #+Latex_Header: \usepackage{natbib}
 
 * News
-- This website will be slowly updated over the coming weeks to give students information about the course "Information and Strategy".
+- For Tuesday Nov 12, we are discussing a paper that is not published yet. Please, use the version on the author's website linked [[http://www.condorelli.science/IDHP.pdf][here]].
+# - This website will be slowly updated over the coming weeks to give students information about the course "Information and Strategy".
 - Lecture time and place in WS 2019/20: Tuesday (100/XVIIa) and Thursday (103/S82) 16:00-17:30 
 
 * Description
@@ -41,7 +42,7 @@ The structure of the course is as follows: In the first part of the course, ther
 * Course material
 ** Lecture material
 - [[https://github.com/schottmueller/infoStrat/files/3615401/htrap.pdf][guide]] on how to read a paper
-- [[https://github.com/schottmueller/advMicro/files/2110550/envelopeMonoNonLinPric.pdf][handout]] on envelope and monotonicity condition in screening with a continuum o types
+- [[https://github.com/schottmueller/advMicro/files/2110550/envelopeMonoNonLinPric.pdf][handout]] on envelope and monotonicity condition in screening with a continuum of types
 
 ** Books
 Some of the lectures are based on parts of books. Noteworthy are
