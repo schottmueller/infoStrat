@@ -4,7 +4,8 @@
 #+Latex_Header: \usepackage{natbib}
 
 * News
-- For Tuesday Nov 12, we are discussing a paper that is not published yet. Please, use the version on the author's website linked [[http://www.condorelli.science/IDHP.pdf][here]].
+- For Thursday Nov 21, we are discussing a paper that is not published yet. Please, use the version [[https://schottmueller.github.io/papers/echoChamber/echo_chambers.pdf][here]].
+# - For Thursday Nov 21, we are discussing a paper that is not published yet. Please, use the version [[http://www.condorelli.science/IDHP.pdf][here]].
 # - This website will be slowly updated over the coming weeks to give students information about the course "Information and Strategy".
 - Lecture time and place in WS 2019/20: Tuesday (100/XVIIa) and Thursday (103/S82) 16:00-17:30 
 
