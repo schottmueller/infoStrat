@@ -41,6 +41,27 @@ A preliminary plan can be found [[https://github.com/schottmueller/infoStrat/blo
 
 The structure of the course is as follows: In the first part of the course, there will mainly be lectures on information economics and its applications. However, we will have a few "practice sessions" in which we discuss a paper that all students should have read/skimmed before. These sessions add to the material of the lecture but are also meant to give you some practice in "how to read a paper (quickly)," i.e. these sessions prepare students for their presentations and reports. The second (and shorter) part of the course consists of student presentations of papers in information economics.
 
+** Presentation
+
+- The goal of the presentation is to teach your fellow students. This implies that you should make the presentation such that it is (i) understandable by your fellow students and (ii) focuses on the interesting bits of the paper. To "teach" does not only mean to state the main results but ideally you should give an intuition/idea why these results hold (at least under the assumptions made in the paper) and also an idea what this means for applications.
+
+- You can simplify the model if this makes the presentation easier without losing the main results (e.g. only present the model for 2 instead of n players or with a uniform distribution instead of a general distribution F etc.).
+
+- You can also search for motivations/applications that are not mentioned in the paper and talk about those if this serves your purpose.
+
+- Assuming that your fellow students attended the lectures, it can be a good idea to compare the model of your paper to the closest model discussed in the lecture (and explain what is different). Seeing the connections can often  help to understand the mechanisms at work better.
+
+- It is difficult to follow a lot of (long) equations. Hence, you should have only equations that help to understand what is going on. If you have an equation on your slides, you should probably explain it term by term (otherwise the audience will not have the time to take it in).
+
+- I do not expect you to replicate all the proofs. This quickly gets boring and hard to follow. In a presentation, it is more important to give an intuition why a result holds than to prove it. (The same is true for your report!)
+
+- At the end you may also discuss directions for further research, highlight weaknesses of the paper or comment on the applicability. This part is not essential for the presentation but you should definitely have it in your report. So, why not try already in the presentation and see whether you get some feedback?
+
+- If you use slides, please send them to me beforehand *in pdf format*. You can use my iPad for the presentation or bring your own PC, tablet etc.
+
+- The time frame is 30-45 minutes, i.e. we will have 2 presentations per session.
+
+
 * Course material
 ** Lecture material
 - [[https://github.com/schottmueller/infoStrat/files/3615401/htrap.pdf][guide]] on how to read a paper
