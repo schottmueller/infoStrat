@@ -13,13 +13,13 @@ We use the first 2-3 weeks to introduce the classics in information economics. W
 - Akerlof's lemons market
 - the first welfare theorem does not hold if different players have different information 
 - applications: used car markets and warranties, adverse selection in insurance markets
-- reading: chapter 5.3 in cite:campbell2018incentives
+- sources: chapter 5.3 in cite:campbell2018incentives
 # - practice: excessive self financing or insurance as in cite:einav2011selection
 
 ** Mediation and correlated equilibrium
 - correlated equilibrium
 - an impartial mediator can use asymmetric information to make everyone better off
-- reading for the technical details: chapter 8 in cite:maschler2013game
+- sources for the technical details: chapter 8 in cite:maschler2013game
 - practice: cite:jann2015correlated 
 
 ** Information rents and screening
@@ -27,8 +27,8 @@ We use the first 2-3 weeks to introduce the classics in information economics. W
 - information creates "rents" for those who have information but uninformed parties reduce these rents by distorting allocations inefficiently
 - applications: non-linear pricing by a monopolist, credit rationing
 - technical extension: screening with a continuum of types
-- reading: chapter 2.1.3, 2.2.1 and 2.3.3 in  cite:bolton2005contract
-- practice: cite:martimort2009market
+- sources: chapter 2.1.3, 2.2.1 and 2.3.3 in  cite:bolton2005contract
+- practice: cite:boone2009optimal 
 # regulating a monopolist, cite:Bar82
 
 * Information design
@@ -37,17 +37,17 @@ Sometimes we can determine how informed others (or we ourselves) will be, e.g. a
 - Bayesian persuasion and the concavification approach
 - how can you structure other players' information to reach your goals?
 - application: will bad banks fail optimal stress tests?
-- reading: cite:kamenica11_bayes_persuas
+- sources: cite:kamenica11_bayes_persuas
 - practice: cite:schweizer2018optimal
 ** Bilateral trade
 - consumer surplus maximizing information structures
 - how much information about a product do you want to have before buying it?
 - application: "strategic ignorance"
-- reading: cite:roe17
-- practice: cite:condorelli2017information [[http://www.condorelli.science/IDHP.pdf][link]]
+- sources: cite:roe17
+- practice: cite:condorelli2017information
 ** Bayes correlated equilibrium
 - the BCE approach to information design
-- reading: section 1-3.2 in cite:bergemann19_infor_desig
+- sources: section 1-3.2 in cite:bergemann19_infor_desig
 # - practice: tba
 
 * Strategic communication (cheap talk)
@@ -61,7 +61,7 @@ People might share what they know with others. The recipients of the information
 ** Continuous state
 - classic cheap talk model with a continuum of states
 - applications: delegation
-- reading: cite:crawford1982cheap
+- sources: cite:crawford1982cheap
 - practice: cite:schottmueller2013cifd
 
 * Hard evidence
@@ -69,22 +69,22 @@ Sometimes one can communicate information credibly by having a third party exper
 ** complete unraveling
 - the incentive to show that one is better than the rest can lead to complete information
 - applications: privacy legislation
-- reading: ch. 5.1 in cite:bolton2005contract, (background: cite:milgrom1981good)
+- sources: ch. 5.1 in cite:bolton2005contract, (background: cite:milgrom1981good)
 ** partial unravelling
 - costly certification and noisy certification (Dye's model)
 - who will certify if the unravelling logic does not apply completely?
 - applications: should students be able to choose among exam questions?, risk taking (BDL) 
-- reading: [[https://sites.google.com/site/eddiedekelsite/pres_address_2016_slides/pres_address_2016_slides.pdf?attredirects=0&d=1][Dekel's slides]], (background: cite:dye1985disclosure,jung1988disclosure)
+- sources: [[https://sites.google.com/site/eddiedekelsite/pres_address_2016_slides/pres_address_2016_slides.pdf?attredirects=0&d=1][Dekel's slides]], (background: cite:dye1985disclosure,jung1988disclosure)
 - practice: cite:ben2014optimal
-** certification
-cite:strausz2005honest,stahl2017certification 
+# ** certification
+# cite:strausz2005honest,stahl2017certification 
 
 * Social learning
 If you are interested in what others know, it is usually best to observe what they do. Consequently, economic agents are often learning from observing the behavior of others; e.g. investors learn from how other investors invest, politicians learn from voting behavior, firms infer information about market conditions from the behavior of competitors etc. This learning behavior can, however, have unintended consequences if agents rely too much on others and too little on their own information. In this case "informational cascades" can occur in which everyone takes the same - and possibly wrong - action. 
 
 ** Herd behavior
 - informational cascades
-- reading: cite:Smith2016, (background:  cite:bikhchandani1992theory,banerjee1992simple,smith2000pathological)
+- sources: cite:Smith2016, (background:  cite:bikhchandani1992theory,banerjee1992simple,smith2000pathological)
 
 * Reputation and advice
 
@@ -93,16 +93,16 @@ Interacting repeatedly allows to build a reputation. E.g. if a friend has never 
 ** Chain store paradox and reputation
 - Can players commit to a certain action that they would normally not take when interacting several times?
 - applications: reputation for behavior
-- reading: ch. 9.1-9.2, 9.4 in cite:fudenberg1991game
+- sources: ch. 9.1-9.2, 9.4 in cite:fudenberg1991game
 # - practice: http://didattica.unibocconi.it/mypage/dwload.php?nomefile=48805_20081010_094047_CENTRAL_BANK_REPUTATION_AND_THE_MONETIZATION_OF_DEFICITS20140415110809.PDF or Barro, Gordon JME 1983
 
 **  Career concerns
 - How will concerns about the future affect a person's decision about how much effort to exert today?
-- reading: cite:holmstrom1999managerial
+- sources: cite:holmstrom1999managerial
 
 ** advice
 - Will experts give best possible advice if they are motivated by an incentive to show the world that they are great experts?
-- reading: cite:ottaviani2006professional
+- sources: cite:ottaviani2006professional
 
 # * Technical tools
 # Understanding research papers requires to know certain tools and techniques. The following pop up quite often in information economics papers.
@@ -118,11 +118,13 @@ Interacting repeatedly allows to build a reputation. E.g. if a friend has never 
 * Papers to present
 These are some papers that students may choose to present. If you want to present a paper that is not on the list, please contact the course instructor.
 
-** Correlated equilibrium
-- cite:liu1996correlated
+# ** Correlated equilibrium
+# - cite:liu1996correlated
 ** Adverse selection and screening
 # - cite:martimort2009market
 - cite:che1993design
+- cite:ber07
+- cite:martimort2009market
 - cite:bijlsma2012competition
 ** Information design
 # - cite:condorelli2017information
@@ -134,21 +136,26 @@ These are some papers that students may choose to present. If you want to presen
 - cite:baliga2016torture
 - cite:goldstein2018stress
 - cite:bergemann18_desig_price_infor
+- cite:shishkin2019evidence
+- cite:mathevet2020information
 ** Hard evidence
 - cite:demarzo2018test
 - cite:song2003disclosures
+- cite:pram20disclosure
+- cite:nageeb2019voluntary
+- cite:shishkin2019evidence
 
-**  Strategic communication (cheap talk)
+** Strategic communication (cheap talk)
 # - cite:farrell1989cheap
 - cite:stein1989cheap
 - cite:alonso2008does
 - cite:dessein2002authority
 - cite:galeotti2013strategic
 - cite:deimen2019delegated
-
+- cite:deimen2020authority
 ** Social learning
 - cite:caplin1994business
-- cite:gale1996have
+# - cite:gale1996have
 - cite:wolitzky2018learning
 - cite:acemoglu14cycles
 ** Reputation and advice
