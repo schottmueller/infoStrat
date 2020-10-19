@@ -7,7 +7,7 @@
 # - The first student presentation is already on Dec. 19 where we will also discuss a bit how the presentations could look like. Presentations should take between 30 and 45 minutes (the 45 minutes is including questions and discussion). If you are using slides , please send those to me as *pdf* before your presentation. You have to use your own computer if you use power point or other formats for your slides.   
 # - For Thursday Nov 21, we are discussing a paper that is not published yet. Please, use the version [[https://schottmueller.github.io/papers/echoChamber/echo_chambers.pdf][here]].
 - This website will be slowly updated over the coming weeks to give students information about the course "Information and Strategy".
-- Lecture time and place in WS 2020/21: Tuesday (100/XVIIb) 16:00-17:30 and Thursday (100/VIIb) 12:00-13:30. (If organizationally necessary, the lecture may be moved online.)
+- Lecture time and place in WS 2020/21: Tuesday (100 HS II) 16:00-17:30 and Thursday (100 HS II) 12:00-13:30. (If organizationally necessary, the lecture may be moved online.)
 
 * Description
 This course deals with information economics. That is, how do people and/or organizations, that have access to different information sources, strategically interact? We also deal with the natural follow up question: Who will and/or should have access to what information and what kind of information can/will/should be transmitted from one person to another? 
