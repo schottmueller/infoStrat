@@ -44,7 +44,7 @@ Sometimes we can determine how informed others (or we ourselves) will be, e.g. a
 - how much information about a product do you want to have before buying it?
 - application: "strategic ignorance"
 - sources: cite:roe17
-- practice: cite:condorelli2017information
+- practice: cite:condorelli2020information
 ** Bayes correlated equilibrium
 - the BCE approach to information design
 - sources: section 1-3.2 in cite:bergemann19_infor_desig
@@ -127,13 +127,15 @@ These are some papers that students may choose to present. If you want to presen
 - cite:martimort2009market
 - cite:bijlsma2012competition
 ** Information design
-# - cite:condorelli2017information
+# - cite:condorelli2020information
 - cite:taneva2018information
 - cite:bergemann16_bayes_correl_equil_compar_infor_struc_games
-- cite:bergemann17_first_price_auction_with_gener_infor_struc
 - cite:bergemann2015limits
-- cite:ely2017beeps
+- cite:bergemann2015selling
+- cite:bergemann17_first_price_auction_with_gener_infor_struc
 - cite:baliga2016torture
+- cite:ely2017beeps
+- cite:mylovanov2017optimal
 - cite:goldstein2018stress
 - cite:bergemann18_desig_price_infor
 - cite:shishkin2019evidence
@@ -150,26 +152,28 @@ These are some papers that students may choose to present. If you want to presen
 - cite:stein1989cheap
 - cite:alonso2008does
 - cite:dessein2002authority
+- cite:battaglini2002multiple
 - cite:galeotti2013strategic
 - cite:deimen2019delegated
 - cite:deimen2020authority
 ** Social learning
 - cite:caplin1994business
 # - cite:gale1996have
-- cite:wolitzky2018learning
 - cite:acemoglu14cycles
+- cite:wolitzky2018learning
 ** Reputation and advice
+- cite:sobel1985theory
 - cite:prendergast1993theory
+- cite:prendergast1996impetuous
+- cite:ely03
+- cite:par05
 - cite:prat2005wrong
 - cite:ottaviani2006reputational
-- cite:prendergast1996impetuous
-- cite:sobel1985theory
 - cite:bhaskar2019culture
-- cite:klein2017will 
 - cite:jullien2014new
-- cite:ely03
 - cite:aghion2014inducing
-- cite:par05
+- cite:klein2017will 
+- cite:neeman2019benefit
 
 # ** Information acquisition
 # - cite:burke2012information Banks search for information about the creditworthiness of consumers. Is the amount of search welfare optimal? What is the market outcome if firms can (not) price discriminate?
