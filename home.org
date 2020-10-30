@@ -31,7 +31,7 @@ Presentations have to be in English. Reports can be written in English or German
 Attendance is voluntary and does not affect the grading of your report directly. (Of course, the lectures are intended to prepare you for writing a good report and that would constitute an indirect effect.)  Attending the student presentations is strongly encouraged.
 
 *** Important dates
-- Send an email to the course instructor with your preferred papers (up to 5) by November 11, 8:00am. Papers are assigned in the following week. There is no guarantee that you are assigned one of your preferred papers.
+- Send an email to the course instructor with your preferred papers (up to 5) by November 11, 8:00am. Papers are assigned in the following week. There is no guarantee that you are assigned one of your preferred papers. Please, also indicate whether you prefer to present on campus or online via zoom.
 - Register for the "examination" via KLIPS by November 31. Deregistering will not be possible after November 31 for scheduling reasons.
 - Dates for the presentations are announced in November. Student presentations take place in January and February.
 - Hand in your paper by March 1, 2021. 
@@ -61,7 +61,7 @@ The *structure of the course* is as follows: In the first part of the course, th
 
 - If you use slides, please send them to me beforehand *in pdf format*. 
 
-- The time frame is 30-45 minutes, i.e. we will have 2 presentations per session.
+- The time frame is 30 minutes, i.e. we will have 3 presentations per session.
 
 
 * Course material
