@@ -4,11 +4,11 @@
 #+Latex_Header: \usepackage{natbib}
 
 * News
-- Due to the Elsevier boycot, the paper we discuss on Nov. 12 is not available from the journal website. You can use the preprint from my [[https://schottmueller.github.io/papers/correlated_eq_bertrand/bertrand.pdf][website]].
+# - Due to the Elsevier boycot, the paper we discuss on Nov. 12 is not available from the journal website. You can use the preprint from my [[https://schottmueller.github.io/papers/correlated_eq_bertrand/bertrand.pdf][website]].
 # - The first student presentation is already on Dec. 19 where we will also discuss a bit how the presentations could look like. Presentations should take between 30 and 45 minutes (the 45 minutes is including questions and discussion). If you are using slides , please send those to me as *pdf* before your presentation. You have to use your own computer if you use power point or other formats for your slides.   
 # - For Thursday Nov 21, we are discussing a paper that is not published yet. Please, use the version [[https://schottmueller.github.io/papers/echoChamber/echo_chambers.pdf][here]].
 - This website will be slowly updated over the coming weeks to give students information about the course "Information and Strategy".
-- In the first weeks of the semester we will have to teach online (see my email in your university mail account for zoom links etc.) as the university leadership -- after announcing the hybrid nature of this semester -- decided to cancel all on campus lectures in November. Please de-register in KLIPS from the course in case you decide to drop it as this will allow us to move towards on campus teaching as soon as the rector changes his mind.
+- In the first weeks of the semester we will have to teach online (see my email in your university mail account for zoom links etc.) as the university leadership -- after announcing the hybrid nature of this semester -- decided to cancel all on campus lectures in November and December. Please de-register in KLIPS from the course in case you decide to drop it as this will allow us to move towards on campus teaching as soon as the rector changes his mind.
 - Lecture time and place in WS 2020/21: Tuesday (100 HS II) 16:00-17:30 and Thursday (100 HS II) 12:00-13:30. (In November, online teaching via zoom. See your email account for links etc.)
 
 * Description
