@@ -66,6 +66,9 @@ The *structure of the course* is as follows: In the first part of the course, th
 
 
 * Course material
+** Slides of student presentations
+- You can find the slides [[https://web.tresorit.com/l/Wekrb#qBdyy0DRm5p_rbrwP1CEYg][here]].
+
 ** Lecture material
 - [[https://github.com/schottmueller/infoStrat/files/3615401/htrap.pdf][guide]] on how to read a paper
 - [[https://github.com/schottmueller/advMicro/files/2110550/envelopeMonoNonLinPric.pdf][handout]] on envelope and monotonicity condition in screening with a continuum of types
