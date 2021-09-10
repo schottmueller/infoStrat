@@ -67,10 +67,10 @@ People might share what they know with others. The recipients of the information
 * Hard evidence
 Sometimes one can communicate information credibly by having a third party expert certifying it; e.g. rating agencies can certify the quality of an asset or the creditworthiness of a person, one can take a test - like GRE or TOEFL - to certify certain abilities etc. Who will certify what? Which information will be transmitted and which won't?
 ** complete unraveling
-- the incentive to show that one is better than the rest can lead to complete information
+- the incentive to show that one is better than the rest can lead to complete information unraveling 
 - applications: privacy legislation
 - sources: ch. 5.1 in cite:bolton2005contract, (background: cite:milgrom1981good)
-** partial unravelling
+** partial unraveling
 - costly certification and noisy certification (Dye's model)
 - who will certify if the unravelling logic does not apply completely?
 - applications: should students be able to choose among exam questions?, risk taking (BDL) 
@@ -126,6 +126,8 @@ These are some papers that students may choose to present. If you want to presen
 - cite:ber07
 - cite:martimort2009market
 - cite:bijlsma2012competition
+- cite:curello2020screening
+  
 ** Information design
 # - cite:condorelli2020information
 - cite:taneva2018information
