@@ -63,7 +63,7 @@ The *structure of the course* is as follows: In the first part of the course, th
 
 - If you use slides, please send them to me beforehand *in pdf format*. 
 
-- The time frame is 30 minutes, i.e. we will have 3 presentations per session.
+- The time frame will probably be around 30 minutes. However, this can depend on the number of students in the course. (In the unlikely event that surprisingly many students take the course, presentations may be in teams. )
 
 
 * Course material
