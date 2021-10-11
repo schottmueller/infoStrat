@@ -72,7 +72,7 @@ The *structure of the course* is as follows: In the first part of the course, th
 
 ** Lecture material
 - [[https://github.com/schottmueller/infoStrat/files/3615401/htrap.pdf][guide]] on how to read a paper
-- [[https://github.com/schottmueller/advMicro/files/2110550/envelopeMonoNonLinPric.pdf][handout]] on envelope and monotonicity condition in screening with a continuum of types
+- [[https://github.com/schottmueller/infoStrat/files/7323109/envelopeMonoNonLinPric.pdf][handout]] on screening with a continuum of types
 
 ** Books
 Some of the lectures are based on parts of books. Noteworthy are
