@@ -9,6 +9,7 @@
  # - For Thursday Dec 10, we are discussing a paper that is not published yet. Please, use the version [[https://schottmueller.github.io/papers/echoChamber/echo_chambers.pdf][here]].
 - This website will be slowly updated over the coming weeks to give students information about the course "Information and Strategy".
 # - In the first weeks of the semester we will have to teach online (see my email in your university mail account for zoom links etc.) as the university leadership -- after announcing the hybrid nature of this semester -- decided to cancel all on campus lectures in November and December. Please de-register in KLIPS from the course in case you decide to drop it as this will allow us to move towards on campus teaching as soon as the rector changes his mind.
+- As a lot more students than expected signed up for the course, presentations are likely to be group presentations.   
 - Lecture time and place in WS 2021/22: Thursday (100 HS XII) 9:00-11:30.
 
 * Description
