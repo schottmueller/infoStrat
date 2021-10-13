@@ -33,7 +33,8 @@ Presentations have to be in English. Reports can be written in English or German
 Attendance is voluntary and does not affect the grading of your report directly. (Of course, the lectures are intended to prepare you for writing a good report and that would constitute an indirect effect.)  Attending the student presentations is strongly encouraged.
 
 *** Important dates
-- Send an email to the course instructor with your preferred papers (up to 5) by November 11, 8:00am. Papers are assigned in the following week. There is no guarantee that you are assigned one of your preferred papers.
+- Insert your paper preferences [[https://docs.google.com/spreadsheets/d/1HqaHmdN_IwvYXpi1jSxLkJl1THz5kUEX8bBCaveDRqg/edit?usp=sharing][here]] before November 11, 8:00am. Papers are assigned in the following week. There is no guarantee that you are assigned one of your preferred papers.
+# - Send an email to the course instructor with your preferred papers (up to 5) by November 11, 8:00am. Papers are assigned in the following week. There is no guarantee that you are assigned one of your preferred papers.
   # Please, also indicate whether you prefer to present on campus or online via zoom.
 - Register for the "examination" via KLIPS by November 31. Deregistering will not be possible after November 31 for scheduling reasons.
 - Dates for the presentations are announced in November. Student presentations take place in January and February.
