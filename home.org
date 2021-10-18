@@ -81,4 +81,4 @@ Some of the lectures are based on parts of books. Noteworthy are
 - Bolton P. and Dewatripont M., "Contract theory", MIT Press 2005,
 - Campbell D.E., "Incentives: motivation and the economics of information", Cambridge University Press 2018.
 
-For more specific reading material and references to research papers, check the course [[https://github.com/schottmueller/infoStrat/files/7142254/plan.pdf][plan]].
+For more specific reading material and references to research papers, check the course  [[https://github.com/schottmueller/infoStrat/files/7154183/plan21.pdf][plan]].
