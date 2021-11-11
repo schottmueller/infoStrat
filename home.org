@@ -8,7 +8,7 @@
 # - The first student presentation is already on Dec. 19 where we will also discuss a bit how the presentations could look like. Presentations should take between 30 and 45 minutes (the 45 minutes is including questions and discussion). If you are using slides , please send those to me as *pdf* before your presentation. You have to use your own computer if you use power point or other formats for your slides.   
  # - For Thursday Dec 10, we are discussing a paper that is not published yet. Please, use the version [[https://schottmueller.github.io/papers/echoChamber/echo_chambers.pdf][here]].
 # - This website will be slowly updated over the coming weeks to give students information about the course "Information and Strategy".
-- On October 28 we will have our first practice session. Please, read this [[https://schottmueller.github.io/papers/correlated_eq_bertrand/bertrand.pdf][paper]] in advance following the steps in the [[https://github.com/schottmueller/infoStrat/files/3615401/htrap.pdf][guide]].
+- On November 18 we will have a practice session on cheap talk. Please, read this [[https://schottmueller.github.io/papers/echoChamber/echo_chambers.pdf][paper]] in advance following the steps in the [[https://github.com/schottmueller/infoStrat/files/3615401/htrap.pdf][guide]].
 - Please note that I had forgotten to update a link to the course plan at the very bottom of the page. The topic "social learning" that existed on the old plan will probably not be covered this year and therefore these papers are not on the list on which you can indicate your preferences. 
 - As a lot more students than expected signed up for the course, presentations may be group presentations.   
 - Lecture time and place in WS 2021/22: Thursday (100 HS XII) 9:00-11:30.
