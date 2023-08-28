@@ -4,16 +4,13 @@
 #+Latex_Header: \usepackage{natbib}
 
 * News
- - The meeting on December 15 will be held as an online meeting from 9:00 to 11:30 via zoom (Meeting ID: 958 7624 5131; Password: 396398).
- - The meeting on December 22 will be held as an online meeting from 8:00 to 10:30 via zoom (Meeting ID: 958 7624 5131; Password: 396398).
- - Due to the Elsevier boycot, the paper we discuss on Oct. 20 is not available from the journal website. You can use the preprint from my [[https://schottmueller.github.io/papers/correlated_eq_bertrand/bertrand.pdf][website]].
+# - Due to the Elsevier boycot, the paper we discuss on Oct. 20 is not available from the journal website. You can use the preprint from my [[https://schottmueller.github.io/papers/correlated_eq_bertrand/bertrand.pdf][website]].
 # - The first student presentation is already on Dec. 19 where we will also discuss a bit how the presentations could look like. Presentations should take between 30 and 45 minutes (the 45 minutes is including questions and discussion). If you are using slides , please send those to me as *pdf* before your presentation. You have to use your own computer if you use power point or other formats for your slides.   
  # - For Thursday Dec 10, we are discussing a paper that is not published yet. Please, use the version [[https://schottmueller.github.io/papers/echoChamber/echo_chambers.pdf][here]].
 # - This website will be slowly updated over the coming weeks to give students information about the course "Information and Strategy".
 # - On November 18 we will have a practice session on cheap talk. Please, read this [[https://schottmueller.github.io/papers/echoChamber/echo_chambers.pdf][paper]] in advance following the steps in the [[https://github.com/schottmueller/infoStrat/files/3615401/htrap.pdf][guide]].
-# - Please note that I had forgotten to update a link to the course plan at the very bottom of the page. The topic "social learning" that existed on the old plan will probably not be covered this year and therefore these papers are not on the list on which you can indicate your preferences. 
 # - As a lot more students than expected signed up for the course, presentations may be group presentations.   
-- Lecture time and place in WS 2022/23: Thursday (100 HS XIa) 9:00-11:30.
+- Lecture time and place in WS 2023/24: Thursday (100 HS XIa) 9:00-11:30.
 
 * Description
 This course deals with information economics. That is, how do people and/or organizations, that have access to different information sources, strategically interact? We also deal with the natural follow up question: Who will and/or should have access to what information and what kind of information can/will/should be transmitted from one person to another? 
@@ -36,12 +33,12 @@ Presentations have to be in English. Reports can be written in English or German
 Attendance is voluntary and does not affect the grading of your report directly. (Of course, the lectures are intended to prepare you for writing a good report...)  Attending the student presentations is strongly encouraged.
 
 *** Important dates
-- Insert your paper preferences [[https://docs.google.com/spreadsheets/d/1HqaHmdN_IwvYXpi1jSxLkJl1THz5kUEX8bBCaveDRqg/edit?usp=sharing][here]] before November 1, 8:00am. Papers are assigned in the following week. There is no guarantee that you are assigned one of your preferred papers.
+- Insert your paper preferences [[https://docs.google.com/spreadsheets/d/1HqaHmdN_IwvYXpi1jSxLkJl1THz5kUEX8bBCaveDRqg/edit?usp=sharing][here]] before November 2, 1:00pm. Papers are assigned in the following week. There is no guarantee that you are assigned one of your preferred papers.
 # - Send an email to the course instructor with your preferred papers (up to 5) by November 11, 8:00am. Papers are assigned in the following week. There is no guarantee that you are assigned one of your preferred papers.
   # Please, also indicate whether you prefer to present on campus or online via zoom.
-- Register for the "examination" via KLIPS by November 9. Deregistration will not be possible after November 9 for scheduling reasons.
-- Dates for the presentations are announced in November. Student presentations take place in January and February.
-- Hand in your paper by March 1, 2023. 
+- Register for the "examination" via KLIPS by November 9. Deregistration will not be possible after November 12 for scheduling reasons.
+- Dates for the presentations are announced in November. Student presentations take place in January and February (also end of December if many students sign up).
+- Hand in your paper by February 28 via email. 
 ** Plan
 
 A preliminary plan can be found [[https://github.com/schottmueller/infoStrat/blob/master/plan21.org][here]]. (A less often updated pdf with properly formatted references is available [[https://github.com/schottmueller/infoStrat/files/7154183/plan21.pdf][here]].)
