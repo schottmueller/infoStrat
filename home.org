@@ -10,7 +10,10 @@
 # - This website will be slowly updated over the coming weeks to give students information about the course "Information and Strategy".
 # - On November 18 we will have a practice session on cheap talk. Please, read this [[https://schottmueller.github.io/papers/echoChamber/echo_chambers.pdf][paper]] in advance following the steps in the [[https://github.com/schottmueller/infoStrat/files/3615401/htrap.pdf][guide]].
 # - As a lot more students than expected signed up for the course, presentations may be group presentations.   
-- Due to an illness the first week's lecture will not go along as planned on campus. Please, check this website for information on this matter in the evening of October 11.
+- Due to an illness the first week's lecture will not go along as planned on campus. Instead we will have an online lecture on zoom on Oct 12, 9am. The lecture will be recorded.
+  - link:  https://uni-koeln.zoom.us/j/96749010699?pwd=TTgyZlJ5NlRDUXIvNTlla3BwVm9zdz09
+  - Meeting ID: 967 4901 0699
+  - Password: 420968
 - Lecture time and place in WS 2023/24: Thursday (100 HS XIa) 9:00-11:30.
 
 * Description
