@@ -4,16 +4,13 @@
 #+Latex_Header: \usepackage{natbib}
 
 * News
-# - Due to the Elsevier boycot, the paper we discuss on Oct. 20 is not available from the journal website. You can use the preprint from my [[https://schottmueller.github.io/papers/correlated_eq_bertrand/bertrand.pdf][website]].
+ - The paper we discuss on Oct. 19 can be downloaded [[http://dx.doi.org/10.1016/j.jmateco.2015.01.005][here]]. Please, read the paper using the methodology described in the guide on how to read a paper.
 # - The first student presentation is already on Dec. 19 where we will also discuss a bit how the presentations could look like. Presentations should take between 30 and 45 minutes (the 45 minutes is including questions and discussion). If you are using slides , please send those to me as *pdf* before your presentation. You have to use your own computer if you use power point or other formats for your slides.   
  # - For Thursday Dec 10, we are discussing a paper that is not published yet. Please, use the version [[https://schottmueller.github.io/papers/echoChamber/echo_chambers.pdf][here]].
 # - This website will be slowly updated over the coming weeks to give students information about the course "Information and Strategy".
 # - On November 18 we will have a practice session on cheap talk. Please, read this [[https://schottmueller.github.io/papers/echoChamber/echo_chambers.pdf][paper]] in advance following the steps in the [[https://github.com/schottmueller/infoStrat/files/3615401/htrap.pdf][guide]].
 # - As a lot more students than expected signed up for the course, presentations may be group presentations.   
-- Due to an illness the first week's lecture will not go along as planned on campus. Instead we will have an online lecture on zoom on Oct 12, 9am. The lecture will be recorded.
-  - link:  https://uni-koeln.zoom.us/j/96749010699?pwd=TTgyZlJ5NlRDUXIvNTlla3BwVm9zdz09
-  - Meeting ID: 967 4901 0699
-  - Password: 420968
+- Due to an illness the first week's lecture will not go along as planned on campus. Instead we will have an online lecture on zoom on Oct 12, 9am. The lecture will be recorded. You can download the recording [[https://uni-koeln.sciebo.de/s/0txSevFVvl3Q7Tl][here]].
 - Lecture time and place in WS 2023/24: Thursday (100 HS XIa) 9:00-11:30.
 
 * Description
